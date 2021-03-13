@@ -1,1 +1,1 @@
-This code will cause conflict
+This is the conflict code
